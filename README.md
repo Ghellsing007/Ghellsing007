@@ -60,7 +60,7 @@ Desarrollador FullStack enfocado en crear soluciones modernas y funcionales. Est
 
 - 📧 **Email:** [garving.vasquez@gmail.com]
 - 🌐 **LinkedIn:** [www.linkedin.com/in/garving-vasquez-severino-118a98343]
-- 🌍 **Portafolio Web:[** En desarrollo...](https://gvsportafolio.netlify.app/)
+- 🌍 **Portafolio Web:** [https://gvsportafolio.netlify.app/]
 
 ---
 
