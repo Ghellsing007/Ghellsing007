@@ -1,12 +1,16 @@
 
-
-![Garving GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=tokyonight)
-
----
-
 👋 ¡Hola! Soy Garving Vasquez S
 
 Desarrollador FullStack enfocado en crear soluciones modernas y funcionales. Estoy en formación continua y participo en proyectos personales y profesionales.
+
+---
+
+---
+
+## 📈 Mis estadísticas
+
+![Garving's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=radical)
 
 ---
 
@@ -53,14 +57,7 @@ Desarrollador FullStack enfocado en crear soluciones modernas y funcionales. Est
 | [CRUD con Blazor](https://github.com/Ghellsing007/blazorservercrudefsqlite) | CRUD con C# y SQLite | C#, Entity Framework |
 
 
----
 
-## 📈 Mis estadísticas
-
-![Garving's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contáctame
 
