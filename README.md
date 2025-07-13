@@ -35,9 +35,9 @@ Desarrollador FullStack enfocado en crear soluciones modernas y funcionales. Est
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [Agendly](https://agendly-saas.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Firebase |
 | [Rendrly](https://rendrly.netlify.app/) | Plataforma para rentar y administrar vehículos | React, Tailwind, PostgreSQL |
 | [GVS Anime](https://gvsanime.vercel.app/) | Web de anime con API de Jikan y diseño moderno | React, Redux, Framer Motion |
+| [Agendly](https://agendly-saas.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Firebase |
 | [GenerationQR](https://generationqr.netlify.app/) | Generador de códigos QR online | HTML, CSS, JavaScript |
 | [GVS Clima](https://gvsclima.netlify.app/) | App del clima con geolocalización | JavaScript, API OpenWeather |
 | [IA Trabajo Final](https://iatrabajofinaluapa.netlify.app/) | Proyecto final de IA con bot conversacional | HTML, CSS, JS, ChatGPT API |
