@@ -5,12 +5,10 @@ Desarrollador FullStack enfocado en crear soluciones modernas y funcionales. Est
 
 ---
 
----
-
 ## 📈 Mis estadísticas
 
-![Garving's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=radical)
+![Garving's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=gruvbox)
 
 ---
 
