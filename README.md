@@ -44,7 +44,7 @@ Desarrollador Full Stack y Analista de Datos, proactivo y comprometido con la me
 |---------|-------------|-------------|
 | [Rendrly](https://rendrly.netlify.app/) | Plataforma para rentar y administrar vehículos | React, Tailwind, PostgreSQL |
 | [GVS Anime](https://gvsanime.vercel.app/) | Web de anime con API de Jikan y diseño moderno | React, Redux, Framer Motion |
-| [inmoplus](https://inmoplus.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Suapabase |
+| [inmoplus](https://inmoplus.netlify.app/) | Plataforma para la gestión y publicación de inmuebles (bienes raíces). Permite buscar propiedades, agendar visitas y contactar agentes. | React, Tailwind, Suapabase |
 | [Agendly](https://agendly-saas.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Firebase |
 | [GenerationQR](https://generationqr.netlify.app/) | Generador de códigos QR online | HTML, CSS, JavaScript |
 | [GVS Clima](https://gvsclima.netlify.app/) | App del clima con geolocalización | JavaScript, API OpenWeather |
