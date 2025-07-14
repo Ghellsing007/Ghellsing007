@@ -44,14 +44,11 @@ Desarrollador Full Stack y Analista de Datos, proactivo y comprometido con la me
 |---------|-------------|-------------|
 | [Rendrly](https://rendrly.netlify.app/) | Plataforma para rentar y administrar vehículos | React, Tailwind, PostgreSQL |
 | [GVS Anime](https://gvsanime.vercel.app/) | Web de anime con API de Jikan y diseño moderno | React, Redux, Framer Motion |
+| [inmoplus](https://inmoplus.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Suapabase |
 | [Agendly](https://agendly-saas.netlify.app/) | Plataforma para agendar citas (barberías, salones, etc.) | React, Tailwind, Firebase |
 | [GenerationQR](https://generationqr.netlify.app/) | Generador de códigos QR online | HTML, CSS, JavaScript |
 | [GVS Clima](https://gvsclima.netlify.app/) | App del clima con geolocalización | JavaScript, API OpenWeather |
 | [IA Trabajo Final](https://iatrabajofinaluapa.netlify.app/) | Proyecto final de IA con bot conversacional | HTML, CSS, JS, ChatGPT API |
-| [Tareapps](https://github.com/Ghellsing007/Tareapps) | App para gestionar tareas de forma intuitiva | JavaScript |
-| [Portafolio](https://github.com/Ghellsing007/Portafolio) | Sitio web personal | HTML, CSS |
-| [Fullstack Open](https://github.com/Ghellsing007/Fullstackopen2024) | Ejercicios del curso Full Stack Open 2024 | React, JS |
-| [CRUD con Blazor](https://github.com/Ghellsing007/blazorservercrudefsqlite) | CRUD con C# y SQLite | C#, Entity Framework |
 
 
 
