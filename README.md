@@ -8,8 +8,8 @@ Para trabajos y servicios:[gvslabs](https://gvslabs.cloud/)
 
 ## 📈 Mis estadísticas
 
-![Garving's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ghellsing007&show_icons=true&theme=gruvbox&cache_seconds=86400)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghellsing007&layout=compact&theme=gruvbox&cache_seconds=86400)
 
 ---
 
