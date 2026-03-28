@@ -2,7 +2,7 @@
 
 Desarrollador Full Stack y Analista de Datos, proactivo y comprometido con la mejora continua. Experiencia desarrollando aplicaciones web modernas, APIs RESTful, automatización de procesos e integración de datos. Hábil en tecnologías frontend y backend como React, Node.js, MongoDB, SQL y Python. Apasionado por resolver problemas, mejorar procesos y construir soluciones escalables centradas en el usuario.
 
-Para trabajos y servicios:[gvslabs](https://gvslabs.cloud/)
+Para trabajos y servicios: [gvslabs](https://gvslabs.cloud/)
 
 ---
 ---
